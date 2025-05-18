@@ -1,0 +1,10 @@
+echo "node_modules/
+uploads/
+cuts/
+transcriptions/
+*.mp4
+*.part
+*.bin
+.env
+.DS_Store
+" > .gitignore
