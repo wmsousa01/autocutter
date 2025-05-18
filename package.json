@@ -5,8 +5,9 @@
   "description": "Autocutter - Transcrição e cortes automáticos de vídeos",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
-  },
+  "start": "node server.js",
+  "dev": "nodemon server.js"
+},
   "keywords": [],
   "author": "Willian Marinho",
   "license": "MIT",

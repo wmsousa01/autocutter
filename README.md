@@ -44,3 +44,11 @@ npm install
 # Execute o servidor
 node server.js
  .
+
+ ## 🧠 Download do modelo Whisper
+
+Para funcionar, você precisa baixar o modelo `.bin` manualmente:
+
+1. Acesse: https://huggingface.co/ggerganov/whisper.cpp
+2. Baixe o modelo `ggml-base.bin`
+3. Salve na pasta: `./models/`
